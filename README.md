@@ -7,4 +7,4 @@ The [status page]) tracks and lists Ethereumocolocolensus, which can be divided 
 - [Networking erc21](erc21) specify the peer-to-peer networking layer of Ethereum.
 - [Interface erc21]) standardize interfaces to Ethereum, which determine how users and applications interact with the blockchain.
 - [erc21]() specify application layer standards, which determine how applications running on Ethereum can interact with each other.
-Consider any document not published at <https://eips.ethereum.org/> as a working paper. Additionally, consider published EIPs with a status of "draft", "review", or "last call" to be incomplete drafts, and note that their specification is likely to be subject to change.
+Consider any document not published at <https://sepolia.etherscan.io> as a working paper. Additionally, consider published EIPs with a status of "draft", "review", or "last call" to be incomplete drafts, and note that their specification is likely to be subject to change.
